@@ -13,4 +13,4 @@
 4. in terminal - "python3 [script] [csv_file]"
 5. profit
 
-![Example image](https://github.com/joseishere/generateDeathRates/blob/master/example.png)
+![Example image](https://github.com/joseishere/generateDeathRates/blob/master/updated.png)
