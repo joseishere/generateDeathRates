@@ -4,7 +4,7 @@
 - loop through the csv and grab specific info for each country and save to a file called "status_" + date of .csv + ".txt"
 - in the same loop also calculate and save deathRate (deaths/number of cases). *I DO NOT CLAIM THIS AS TRUE DEATH RATE*
 - in the csv files, "occupied Palestinian territory" gives nan so I chose to get rid of it. so pop both lists.
-- once we pop both lists, save the lists into two columns in a new csv called "deathRates_" + date of .csv + ".csv"
+- once we pop both lists, save the lists into two columns in a new csv called "simplified_" + date of .csv + ".csv"
 
 ## How to use:
 1. have anaconda installed
