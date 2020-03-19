@@ -54,7 +54,6 @@ def genDeathRates(csvFile):
 		writer = csv.writer(f)
 		writer.writerows(zip(countries, confirmed, deaths, recovered, deathRates, recoveryRates))
 
-	print(type(deathRates[-1]))
 
 genDeathRates(sys.argv[1])
 
