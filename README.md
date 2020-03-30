@@ -15,3 +15,9 @@
 5. profit
 
 ![Example image](https://github.com/joseishere/generateDeathRates/blob/master/updated.png)
+
+# UPDATE
+- as COVID-19 has progressed, the csv files have changed in format
+- as such script is not functioning after 03-22-20
+- code is simple to read and as such easy to modify and make work, you are free to do so
+- will change script when I have time to do so
