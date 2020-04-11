@@ -16,7 +16,9 @@
 
 ![Example image](https://github.com/joseishere/generateDeathRates/blob/master/updated.png)
 
-# UPDATE
+## UPDATE
+- SCRIPT NOW WORKS AGAIN AS OF 04/11/20
+- 
 - as COVID-19 has progressed, the csv files have changed in format
 - as such script is not functioning after 03-22-20
 - code is simple to read and as such easy to modify and make work, you are free to do so
